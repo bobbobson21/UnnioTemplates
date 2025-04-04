@@ -12,256 +12,149 @@
       "NODES": [
         {
           "T": "testing",
-          "D": "wow such text",
+          "DES": null,
+          "DEA": null,
+          "S": null,
           "U": "dsbkh",
-          "CSLFA": 0,
           "COL": [
             1.0,
             1.0,
             0.0,
             1.0
           ],
-          "COND": []
+          "CONDS": []
         },
         {
           "T": "wowowowwowowowowouwu",
-          "D": "bob bob\n\nbob\n\n1 2  3    4",
+          "DES": null,
+          "DEA": null,
+          "S": null,
           "U": "dsbkh",
-          "CSLFA": 0,
           "COL": [
             0.0,
             1.0,
             1.0,
             1.0
           ],
-          "COND": [
-            {
-              "COND_CT": 1,
-              "COND_TAS": "?/\\",
-              "COND_OTPMTS": 5
-            }
-          ]
+          "CONDS": []
         },
         {
           "T": "wwwwwwwwwwwww",
-          "D": "... description here",
+          "DES": null,
+          "DEA": null,
+          "S": null,
           "U": "e017770n",
-          "CSLFA": 0,
           "COL": [
             0.0,
             0.0,
             0.0,
             0.0
           ],
-          "COND": []
+          "CONDS": []
         },
         {
           "T": "... title here",
-          "D": "... description here",
+          "DES": null,
+          "DEA": null,
+          "S": null,
           "U": "e017770n",
-          "CSLFA": 0,
           "COL": [
             0.0,
             0.0,
             0.0,
             0.0
           ],
-          "COND": []
+          "CONDS": []
         },
         {
           "T": "... title here",
-          "D": "... description here",
+          "DES": null,
+          "DEA": null,
+          "S": null,
           "U": "e017770n",
-          "CSLFA": 0,
           "COL": [
             0.0,
             0.0,
             0.0,
             0.0
           ],
-          "COND": []
+          "CONDS": []
         },
         {
           "T": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-          "D": "... description here",
+          "DES": null,
+          "DEA": null,
+          "S": null,
           "U": "dsbkh",
-          "CSLFA": 0,
           "COL": [
             0.0,
             0.0,
             0.0,
             0.0
           ],
-          "COND": []
+          "CONDS": []
         },
         {
           "T": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-          "D": "... description here",
+          "DES": null,
+          "DEA": null,
+          "S": null,
           "U": "dsbkh",
-          "CSLFA": 0,
           "COL": [
             0.0,
             0.0,
             0.0,
             0.0
           ],
-          "COND": []
+          "CONDS": []
         },
         {
           "T": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-          "D": "... description here",
+          "DES": null,
+          "DEA": null,
+          "S": null,
           "U": "dsbkh",
-          "CSLFA": 0,
           "COL": [
             0.0,
             0.0,
             0.0,
             0.0
           ],
-          "COND": []
+          "CONDS": []
         },
         {
           "T": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-          "D": "... description here",
+          "DES": null,
+          "DEA": null,
+          "S": null,
           "U": "dsbkh",
-          "CSLFA": 0,
           "COL": [
             0.0,
             0.0,
             0.0,
             0.0
           ],
-          "COND": []
+          "CONDS": []
         },
         {
           "T": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-          "D": "... description here",
+          "DES": null,
+          "DEA": null,
+          "S": null,
           "U": "dsbkh",
-          "CSLFA": 0,
           "COL": [
             0.0,
             0.0,
             0.0,
             0.0
           ],
-          "COND": []
+          "CONDS": []
         }
       ],
       "ACTIONS": {
-        "ACT_PBIA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_PENA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_PEXA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_SBIA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_SENA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_SEXA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        }
+        "ACT_BIA": [],
+        "ACT_ENA": [],
+        "ACT_EXA": []
       }
     },
     {
@@ -274,120 +167,9 @@
       ],
       "NODES": [],
       "ACTIONS": {
-        "ACT_PBIA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_PENA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_PEXA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_SBIA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_SENA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_SEXA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        }
+        "ACT_BIA": [],
+        "ACT_ENA": [],
+        "ACT_EXA": []
       }
     },
     {
@@ -400,120 +182,9 @@
       ],
       "NODES": [],
       "ACTIONS": {
-        "ACT_PBIA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_PENA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_PEXA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_SBIA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_SENA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_SEXA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        }
+        "ACT_BIA": [],
+        "ACT_ENA": [],
+        "ACT_EXA": []
       }
     },
     {
@@ -526,120 +197,9 @@
       ],
       "NODES": [],
       "ACTIONS": {
-        "ACT_PBIA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_PENA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_PEXA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_SBIA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_SENA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_SEXA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        }
+        "ACT_BIA": [],
+        "ACT_ENA": [],
+        "ACT_EXA": []
       }
     },
     {
@@ -652,120 +212,9 @@
       ],
       "NODES": [],
       "ACTIONS": {
-        "ACT_PBIA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_PENA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_PEXA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_SBIA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_SENA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        },
-        "ACT_SEXA": {
-          "ACT_AT": 0,
-          "ACT_IF_COL": [
-            0.0,
-            0.0,
-            0.0,
-            0.0
-          ],
-          "ACT_IF_D": "... date (DD/MM/YYYY) here",
-          "ACT_IF_NU": "... username here",
-          "ACT_THEN_COL": [
-            0.0,
-            1.0,
-            0.0,
-            1.0
-          ],
-          "ACT_THEN_RCI": 0,
-          "ACT_THEN_NU": "... username here"
-        }
+        "ACT_BIA": [],
+        "ACT_ENA": [],
+        "ACT_EXA": []
       }
     }
   ]
