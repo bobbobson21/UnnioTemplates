@@ -9,7 +9,7 @@
 		"CREATOR_NAME": "Kyle Edwards",
 		"UPLOAD_DATE": "04/04/2025",
 		"TEMPLATE_VERSION": "0.0.1",
-		"UNNIO_VERSIONS": "0.0.1",
+		"UNNIO_VERSIONS": "16.42.5",
 		"BG": "textures/test_board.png",
 		"TEMPLATE": "templates/test_board.json"
 	},
