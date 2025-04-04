@@ -7,11 +7,11 @@
 		"TITLE": "A simple test",
 		"DESCRIPTION": "the first board ever made, it was made for testing but it ended up being kept here because of love and so that I could also test this.",
 		"CREATOR_NAME": "Kyle Edwards",
-		"CREATION_DATE": "04/04/2025",
+		"UPLOAD_DATE": "04/04/2025",
 		"TEMPLATE_VERSION": "0.0.1",
 		"UNNIO_VERSIONS": "0.0.1",
-		"BG": "textures/wow.png",
-		"TEMPLATE": "templates/simpleA.json"
+		"BG": "textures/test_board.png",
+		"TEMPLATE": "templates/test_board.json"
 	},
 	{
 		"DIVIDER_TITLE": "automated"
