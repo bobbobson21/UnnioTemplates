@@ -4,7 +4,7 @@
 	},
 	{
 		"LINK_TITLE": "The test board",
-		"TITLE": "A simple test",
+		"TITLE": "A simple testing board",
 		"DESCRIPTION": "the first board ever made, it was made for testing but it ended up being kept here because of love and so that I could also test this. it was updated so it could also be used in modern unnio.",
 		"CREATOR_NAME": "Kyle Edwards",
 		"UPLOAD_DATE": "05/04/2025",
@@ -13,10 +13,58 @@
 		"BG": "textures/test_board.png",
 		"TEMPLATE": "templates/test_board.json"
 	},
+	
+	
 	{
 		"DIVIDER_TITLE": "automated"
 	},
+
+	
 	{
 		"DIVIDER_TITLE": "tutorial examples"
+	},
+	{
+		"LINK_TITLE": "make stacks and nodes",
+		"TITLE": "how to make stacks and nodes",
+		"DESCRIPTION": "the first tutorial board ever made, this boards was made to display how one would go about making a board in the unnio tutorial window.",
+		"CREATOR_NAME": "Kyle Edwards",
+		"UPLOAD_DATE": "06/04/2025",
+		"TEMPLATE_VERSION": "0.0.1",
+		"UNNIO_VERSIONS": "16.42.5",
+		"BG": "textures/tut_board_A.png",
+		"TEMPLATE": "templates/tut_board_A.json"
+	},
+	{
+		"LINK_TITLE": "conditions tutorial",
+		"TITLE": "The conditions tutorial board",
+		"DESCRIPTION": "This was the board used in the production of the node conditions tutorial. It was was used to teach how one could make nodes move around by them selfs",
+		"CREATOR_NAME": "Kyle Edwards",
+		"UPLOAD_DATE": "06/04/2025",
+		"TEMPLATE_VERSION": "0.0.1",
+		"UNNIO_VERSIONS": "16.42.5",
+		"BG": "textures/tut_board_B.png",
+		"TEMPLATE": "templates/tut_board_B.json"
+	},
+	{
+		"LINK_TITLE": "stack tutorial",
+		"TITLE": "The stack tutorial board",
+		"DESCRIPTION": "This was the board used in the production of the node stack actions tutorial. It can be a very useful insight as to how stacks work.",
+		"CREATOR_NAME": "Kyle Edwards",
+		"UPLOAD_DATE": "05/04/2025",
+		"TEMPLATE_VERSION": "0.0.1",
+		"UNNIO_VERSIONS": "16.42.5",
+		"BG": "textures/tut_board_C.png",
+		"TEMPLATE": "templates/tut_board_C.json"
+	}
+	{
+		"LINK_TITLE": "stack challenge",
+		"TITLE": "The masterful stack challenge",
+		"DESCRIPTION": "A board that sets the colour of a node to something like yellow if it is dragged into a stack it dose not belong to.",
+		"CREATOR_NAME": "Kyle Edwards",
+		"UPLOAD_DATE": "05/04/2025",
+		"TEMPLATE_VERSION": "0.0.1",
+		"UNNIO_VERSIONS": "16.42.5",
+		"BG": "textures/tut_board_D.png",
+		"TEMPLATE": "templates/tut_board_D.json"
 	}
 ]

@@ -1,0 +1,77 @@
+{
+  "IS_UNNIO_SAVE": true,
+  "STACKS": [
+    {
+      "T": "tutorial stack",
+      "COL": [
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "NODES": [
+        {
+          "T": "example",
+          "DES": "... description here",
+          "DEA": "",
+          "S": "",
+          "U": "",
+          "COL": [
+            0.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "CONDS": []
+        },
+        {
+          "T": "other example",
+          "DES": "... description here",
+          "DEA": "",
+          "S": "",
+          "U": "A_Person",
+          "COL": [
+            0.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "CONDS": []
+        },
+        {
+          "T": "other other example",
+          "DES": "... description here",
+          "DEA": "one week from now",
+          "S": "",
+          "U": "",
+          "COL": [
+            0.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "CONDS": []
+        },
+        {
+          "T": "other other other example",
+          "DES": "... description here",
+          "DEA": "",
+          "S": "<STAT=0>",
+          "U": "",
+          "COL": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "CONDS": []
+        }
+      ],
+      "ACTIONS": {
+        "ACT_BIA": [],
+        "ACT_ENA": [],
+        "ACT_EXA": []
+      }
+    }
+  ]
+}

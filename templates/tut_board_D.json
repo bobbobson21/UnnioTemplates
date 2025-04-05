@@ -1,0 +1,260 @@
+{
+  "IS_UNNIO_SAVE": true,
+  "STACKS": [
+    {
+      "T": "programming",
+      "COL": [
+        0.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "NODES": [
+        {
+          "T": "... title here",
+          "DES": "... description here",
+          "DEA": "",
+          "S": "",
+          "U": "dsbkh",
+          "COL": [
+            0.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "CONDS": []
+        },
+        {
+          "T": "... title here",
+          "DES": "... description here",
+          "DEA": "",
+          "S": "",
+          "U": "dsbkh",
+          "COL": [
+            0.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "CONDS": []
+        },
+        {
+          "T": "... title here",
+          "DES": "... description here",
+          "DEA": "",
+          "S": "",
+          "U": "dsbkh",
+          "COL": [
+            0.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "CONDS": []
+        }
+      ],
+      "ACTIONS": {
+        "ACT_BIA": [
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_ENA": [
+          {
+            "ACT_AT": 2,
+            "ACT_IF_COL": [
+              1.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 3,
+            "ACT_IF_COL": [
+              0.0,
+              1.0,
+              1.0,
+              1.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              1.0,
+              1.0,
+              0.0,
+              0.980392158
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_EXA": []
+      }
+    },
+    {
+      "T": "art",
+      "COL": [
+        1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "NODES": [
+        {
+          "T": "... title here",
+          "DES": "... description here",
+          "DEA": "",
+          "S": "",
+          "U": "dsbkh",
+          "COL": [
+            1.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "CONDS": []
+        },
+        {
+          "T": "... title here",
+          "DES": "... description here",
+          "DEA": "",
+          "S": "",
+          "U": "dsbkh",
+          "COL": [
+            1.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "CONDS": []
+        },
+        {
+          "T": "... title here",
+          "DES": "... description here",
+          "DEA": "",
+          "S": "",
+          "U": "dsbkh",
+          "COL": [
+            1.0,
+            0.0,
+            1.0,
+            1.0
+          ],
+          "CONDS": []
+        }
+      ],
+      "ACTIONS": {
+        "ACT_BIA": [
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              1.0,
+              0.0,
+              1.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_ENA": [
+          {
+            "ACT_AT": 2,
+            "ACT_IF_COL": [
+              1.0,
+              1.0,
+              0.0,
+              0.980392158
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              1.0,
+              0.0,
+              1.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 3,
+            "ACT_IF_COL": [
+              1.0,
+              0.0,
+              1.0,
+              1.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              1.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_EXA": []
+      }
+    },
+    {
+      "T": "... title here",
+      "COL": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "NODES": [],
+      "ACTIONS": {
+        "ACT_BIA": [],
+        "ACT_ENA": [],
+        "ACT_EXA": []
+      }
+    }
+  ]
+}

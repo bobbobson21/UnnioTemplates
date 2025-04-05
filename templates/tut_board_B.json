@@ -1,0 +1,66 @@
+{
+  "IS_UNNIO_SAVE": true,
+  "STACKS": [
+    {
+      "T": "Tutorial stack",
+      "COL": [
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "NODES": [
+        {
+          "T": "example",
+          "DES": "... description here",
+          "DEA": "",
+          "S": "",
+          "U": "",
+          "COL": [
+            0.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "CONDS": [
+            {
+              "COND_CT": 1,
+              "COND_TAS": "SomeClassFile.cs",
+              "COND_OTPMTS": 0
+            },
+            {
+              "COND_CT": 3,
+              "COND_TAS": "1",
+              "COND_OTPMTS": 0
+            },
+            {
+              "COND_CT": 4,
+              "COND_TAS": "23/03/2042",
+              "COND_OTPMTS": 0
+            }
+          ]
+        }
+      ],
+      "ACTIONS": {
+        "ACT_BIA": [],
+        "ACT_ENA": [],
+        "ACT_EXA": []
+      }
+    },
+    {
+      "T": "other stack",
+      "COL": [
+        1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "NODES": [],
+      "ACTIONS": {
+        "ACT_BIA": [],
+        "ACT_ENA": [],
+        "ACT_EXA": []
+      }
+    }
+  ]
+}
