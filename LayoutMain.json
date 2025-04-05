@@ -55,7 +55,7 @@
 		"UNNIO_VERSIONS": "16.42.5",
 		"BG": "textures/tut_board_C.png",
 		"TEMPLATE": "templates/tut_board_C.json"
-	}
+	},
 	{
 		"LINK_TITLE": "stack challenge",
 		"TITLE": "The masterful stack challenge",
