@@ -21,13 +21,24 @@
 	{
 		"LINK_TITLE": "The shared template",
 		"TITLE": "The shared template",
-		"DESCRIPTION": "This template is ment to be shared between programming, art and design and it also comes with an urgent and in progress stacks and it automates the status and the colour of nodes base on what stack you add it to. \n\nThe name of the stakcs do relate to the status that stack will set except for the programming, art and design but they will all set the status to \"to be done\".",
+		"DESCRIPTION": "This template is meant to be shared between programming, art and design and it also comes with an urgent and in progress stacks and it automates the status and the colour of nodes base on what stack you add it to. \n\nThe name of the stakcs do relate to the status that stack will set except for the programming, art and design but they will all set the status to \"to be done\".",
 		"CREATOR_NAME": "Kyle Edwards",
 		"UPLOAD_DATE": "08/04/2025",
 		"TEMPLATE_VERSION": "0.0.1",
 		"UNNIO_VERSIONS": "16.42.5",
 		"BG": "textures/auto_board_A.png",
 		"TEMPLATE": "templates/auto_board_A.json"
+	},
+	{
+		"LINK_TITLE": "The personal template",
+		"TITLE": "The personal template",
+		"DESCRIPTION": "This template is not meant to be used by more than one as it is designed to help one with there own personal goals towards a project. It automates the status and the colour of nodes base on what stack you add it to. \n\nThe name of the stacks do relate to the status that stack will set and these is one node that demonstrates the behaviour of the Inactive stack.",
+		"CREATOR_NAME": "Kyle Edwards",
+		"UPLOAD_DATE": "09/04/2025",
+		"TEMPLATE_VERSION": "0.0.1",
+		"UNNIO_VERSIONS": "16.42.5",
+		"BG": "textures/auto_board_B.png",
+		"TEMPLATE": "templates/auto_board_B.json"
 	},
 	
 	{
