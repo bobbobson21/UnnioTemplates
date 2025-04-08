@@ -18,7 +18,17 @@
 	{
 		"DIVIDER_TITLE": "automated"
 	},
-
+	{
+		"LINK_TITLE": "The shared tempalate",
+		"TITLE": "The shared tempalate",
+		"DESCRIPTION": "This template is ment to be shared between programming, art and design and it also comes with an urgent and in progress stacks and it automates the status and the colour of nodes base on what stack you add it to. \nThe name of the stakcs do relate to the status that stack will set except for the programming, art and design but they will all set the status to \"to be done\" ",
+		"CREATOR_NAME": "Kyle Edwards",
+		"UPLOAD_DATE": "08/04/2025",
+		"TEMPLATE_VERSION": "0.0.1",
+		"UNNIO_VERSIONS": "16.42.5",
+		"BG": "textures/auto_board_A.png",
+		"TEMPLATE": "templates/auto_board_A.json"
+	},
 	
 	{
 		"DIVIDER_TITLE": "tutorial examples"
