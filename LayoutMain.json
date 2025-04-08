@@ -32,7 +32,7 @@
 	{
 		"LINK_TITLE": "The personal template",
 		"TITLE": "The personal template",
-		"DESCRIPTION": "This template is not meant to be used by more than one as it is designed to help one with there own personal goals towards a project. It automates the status and the colour of nodes base on what stack you add it to. \n\nThe name of the stacks do relate to the status that stack will set and these is one node that demonstrates the behaviour of the Inactive stack.",
+		"DESCRIPTION": "This template is not meant to be used by more than one as it is designed to help one with there own personal goals towards a project. It automates the status and the colour of nodes base on what stack you add it to. \n\nThe name of the stacks do relate to the status that stack will set, and there is one node that demonstrates the behaviour of the Inactive stack.",
 		"CREATOR_NAME": "Kyle Edwards",
 		"UPLOAD_DATE": "09/04/2025",
 		"TEMPLATE_VERSION": "0.0.1",
