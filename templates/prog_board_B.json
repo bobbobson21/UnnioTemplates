@@ -2,7 +2,7 @@
   "IS_UNNIO_SAVE": true,
   "STACKS": [
     {
-      "T": "tests are missing",
+      "T": "Tests are missing",
       "COL": [
         0.784313738,
         0.0,
@@ -99,7 +99,7 @@
       }
     },
     {
-      "T": "all current tests are done",
+      "T": "All current tests are done",
       "COL": [
         0.784313738,
         0.0,
@@ -211,7 +211,7 @@
       }
     },
     {
-      "T": "code dose not meet requirments of tests",
+      "T": "Code dose not meet requirements of tests",
       "COL": [
         0.784313738,
         0.0,
@@ -308,7 +308,7 @@
       }
     },
     {
-      "T": "code passed tests",
+      "T": "Code passed tests",
       "COL": [
         0.0,
         0.882352948,

@@ -45,7 +45,7 @@
 		"DESCRIPTION": "This board is a great utility for those who used test driven development as it can provide a great visual understanding of the tasks that need made and the conditions required to satisfy them. \n\nThis board also comes with automatic colour and state changing but it can also alert you to if you placed a node in the wrong place.",
 		"CREATOR_NAME": "Kyle Edwards",
 		"UPLOAD_DATE": "05/04/2025",
-		"TEMPLATE_VERSION": "0.0.1",
+		"TEMPLATE_VERSION": "0.0.2",
 		"UNNIO_VERSIONS": "16.42.5",
 		"BG": "textures/prog_board_A.png",
 		"TEMPLATE": "templates/prog_board_A.json"
@@ -55,13 +55,23 @@
 		"TITLE": "TTD style board but it cant show you placement errors",
 		"DESCRIPTION": "This board is a great utility for those who used test driven development as it can provide a great visual understanding of the tasks that need made and the conditions required to satisfy them. \n\nThis board also comes with automatic colour and state changing but it can NOT alert you to if you placed a node in the wrong place.",
 		"CREATOR_NAME": "Kyle Edwards",
-		"UPLOAD_DATE": "05/04/2025",
-		"TEMPLATE_VERSION": "0.0.1",
+		"UPLOAD_DATE": "10/04/2025",
+		"TEMPLATE_VERSION": "0.0.2",
 		"UNNIO_VERSIONS": "16.42.5",
 		"BG": "textures/prog_board_B.png",
 		"TEMPLATE": "templates/prog_board_B.json"
 	},
-	
+	{
+		"LINK_TITLE": "The reliability board",
+		"TITLE": "The reliability board",
+		"DESCRIPTION": "A simple board that shows most of the normal stages a section of code would go though. This board only dose automatic colours and statuses.",
+		"CREATOR_NAME": "Kyle Edwards",
+		"UPLOAD_DATE": "10/04/2025",
+		"TEMPLATE_VERSION": "0.0.1",
+		"UNNIO_VERSIONS": "16.42.5",
+		"BG": "textures/prog_board_C.png",
+		"TEMPLATE": "templates/prog_board_C.json"
+	},
 	
 	{
 		"DIVIDER_TITLE": "tutorial examples"
