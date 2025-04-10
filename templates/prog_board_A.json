@@ -1,0 +1,686 @@
+{
+  "IS_UNNIO_SAVE": true,
+  "STACKS": [
+    {
+      "T": "tests are missing",
+      "COL": [
+        0.784313738,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "NODES": [],
+      "ACTIONS": {
+        "ACT_BIA": [
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.784313738,
+              0.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 22,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=0>",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_ENA": [
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.784313738,
+              0.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 22,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=0>",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_EXA": []
+      }
+    },
+    {
+      "T": "all current tests are done",
+      "COL": [
+        0.784313738,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "NODES": [
+        {
+          "T": "example of placement issue indication: resulting in the node going yellow and the status being changed",
+          "DES": "... description here",
+          "DEA": "",
+          "S": "POSSIBLE PLACEMENT ERROR: node is required to enter \"tests are missing\" before it should be place in here",
+          "U": "dsbkh",
+          "COL": [
+            1.0,
+            1.0,
+            0.0,
+            1.0
+          ],
+          "CONDS": []
+        }
+      ],
+      "ACTIONS": {
+        "ACT_BIA": [
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.784313738,
+              0.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 22,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=1> ",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_ENA": [
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.784313738,
+              0.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 27,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=0>",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=1> ",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 5,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1> ",
+            "ACT_THEN_COL": [
+              1.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 28,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1> ",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "POSSIBLE PLACEMENT ERROR: node is required to enter \"tests are missing\" before it should be place in here",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_EXA": []
+      }
+    },
+    {
+      "T": "code dose not meet requirments of tests",
+      "COL": [
+        0.784313738,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "NODES": [],
+      "ACTIONS": {
+        "ACT_BIA": [
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.784313738,
+              0.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 22,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=3>",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_ENA": [
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.784313738,
+              0.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 27,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1> ",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=3>",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 5,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=3>",
+            "ACT_THEN_COL": [
+              1.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 28,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=3>",
+            "ACT_THEN_COL": [
+              1.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "POSSIBLE PLACEMENT ERROR: node is required to enter \"all current tests are done \" before it should be place in here",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_EXA": [
+          {
+            "ACT_AT": 27,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=3>",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=1> ",
+            "ACT_THEN_DE": "<STAT=1> "
+          }
+        ]
+      }
+    },
+    {
+      "T": "code passed tests",
+      "COL": [
+        0.0,
+        0.882352948,
+        0.0,
+        1.0
+      ],
+      "NODES": [],
+      "ACTIONS": {
+        "ACT_BIA": [
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 22,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=1>  ",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_ENA": [
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 27,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1> ",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=1>  ",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 5,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1>  ",
+            "ACT_THEN_COL": [
+              1.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 28,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1>  ",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "POSSIBLE PLACEMENT ERROR: node is required to enter \"all current tests are done \" before it should be place in here",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_EXA": []
+      }
+    },
+    {
+      "T": "refactored",
+      "COL": [
+        0.0,
+        0.784313738,
+        1.0,
+        1.0
+      ],
+      "NODES": [],
+      "ACTIONS": {
+        "ACT_BIA": [
+          {
+            "ACT_AT": 22,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=2>",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              0.784313738,
+              1.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_ENA": [
+          {
+            "ACT_AT": 4,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1>  ",
+            "ACT_THEN_COL": [
+              0.0,
+              0.784313738,
+              1.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 5,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1>  ",
+            "ACT_THEN_COL": [
+              1.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 23,
+            "ACT_IF_COL": [
+              0.0,
+              0.7843138,
+              1.0,
+              1.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=2>",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 23,
+            "ACT_IF_COL": [
+              1.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "POSSIBLE PLACEMENT ERROR: node is required to enter \"code pass tests\" before it should be place in here",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_EXA": []
+      }
+    }
+  ]
+}
