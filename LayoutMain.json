@@ -8,7 +8,7 @@
 		"DESCRIPTION": "The first board ever made, it was made for testing but it ended up being kept here because of love and so that I could also test this. it was updated so it could also be used in modern Unnio.",
 		"CREATOR_NAME": "Kyle Edwards",
 		"UPLOAD_DATE": "05/04/2025",
-		"TEMPLATE_VERSION": "0.0.2",
+		"TEMPLATE_VERSION": "0.0.3",
 		"UNNIO_VERSIONS": "2.3.1, 3.3.1",
 		"BG": "textures/test_board.png",
 		"TEMPLATE": "templates/test_board.unnboa"
@@ -45,7 +45,7 @@
 		"DESCRIPTION": "This board is a great utility for those who used test driven development as it can provide a great visual understanding of the tasks that need made and the conditions required to satisfy them. \n\nThis board also comes with automatic colour and state changing but it can also alert you to if you placed a node in the wrong place.",
 		"CREATOR_NAME": "Kyle Edwards",
 		"UPLOAD_DATE": "05/04/2025",
-		"TEMPLATE_VERSION": "0.0.2",
+		"TEMPLATE_VERSION": "0.0.3",
 		"UNNIO_VERSIONS": "2.3.1, 3.3.1",
 		"BG": "textures/prog_board_A.png",
 		"TEMPLATE": "templates/prog_board_A.unnboa"
@@ -56,7 +56,7 @@
 		"DESCRIPTION": "This board is a great utility for those who used test driven development as it can provide a great visual understanding of the tasks that need made and the conditions required to satisfy them. \n\nThis board also comes with automatic colour and state changing but it can NOT alert you to if you placed a node in the wrong place.",
 		"CREATOR_NAME": "Kyle Edwards",
 		"UPLOAD_DATE": "10/04/2025",
-		"TEMPLATE_VERSION": "0.0.2",
+		"TEMPLATE_VERSION": "0.0.3",
 		"UNNIO_VERSIONS": "2.3.1, 3.3.1",
 		"BG": "textures/prog_board_B.png",
 		"TEMPLATE": "templates/prog_board_B.unnboa"
@@ -67,7 +67,7 @@
 		"DESCRIPTION": "A simple board that shows most of the normal stages a section of code would go though. This board only dose automatic colours and statuses.",
 		"CREATOR_NAME": "Kyle Edwards",
 		"UPLOAD_DATE": "10/04/2025",
-		"TEMPLATE_VERSION": "0.0.1",
+		"TEMPLATE_VERSION": "0.0.2",
 		"UNNIO_VERSIONS": "2.3.1, 3.3.1",
 		"BG": "textures/prog_board_C.png",
 		"TEMPLATE": "templates/prog_board_C.unnboa"
@@ -77,10 +77,10 @@
 		"DIVIDER_TITLE": "art related"
 	},
 	{
-		"LINK_TITLE": "The TTD board",
-		"TITLE": "TTD style board",
-		"DESCRIPTION": "This board is a great utility for those who used test driven development as it can provide a great visual understanding of the tasks that need made and the conditions required to satisfy them. \n\nThis board also comes with automatic colour and state changing but it can also alert you to if you placed a node in the wrong place.",
-		"CREATOR_NAME": "Kyle Edwards",
+		"LINK_TITLE": "The mesh creation board b",
+		"TITLE": "The mesh creation board a",
+		"DESCRIPTION": "This board is great at planning out the process for making meshes, and it is also good at tracking the progress of multiple meshs and how complete they are are.\n\n This board features automatic node colouring and status setting as well as placement error indication.",
+		"CREATOR_NAME": "Kyle Edwards (the furry)",
 		"UPLOAD_DATE": "05/04/2025",
 		"TEMPLATE_VERSION": "0.0.2",
 		"UNNIO_VERSIONS": "2.3.1, 3.3.1",
@@ -97,7 +97,7 @@
 		"DESCRIPTION": "The first tutorial board ever made, this boards was made to display how one would go about making a board in the Unnio tutorial window.",
 		"CREATOR_NAME": "Kyle Edwards",
 		"UPLOAD_DATE": "06/04/2025",
-		"TEMPLATE_VERSION": "0.0.1",
+		"TEMPLATE_VERSION": "0.0.2",
 		"UNNIO_VERSIONS": "2.3.1, 3.3.1",
 		"BG": "textures/tut_board_A.png",
 		"TEMPLATE": "templates/tut_board_A.unnboa"
@@ -108,7 +108,7 @@
 		"DESCRIPTION": "This was the board used in the production of the node conditions tutorial. It was was used to teach how one could make nodes move around by them selfs.",
 		"CREATOR_NAME": "Kyle Edwards",
 		"UPLOAD_DATE": "06/04/2025",
-		"TEMPLATE_VERSION": "0.0.1",
+		"TEMPLATE_VERSION": "0.0.2",
 		"UNNIO_VERSIONS": "2.3.1, 3.3.1",
 		"BG": "textures/tut_board_B.png",
 		"TEMPLATE": "templates/tut_board_B.unnboa"
@@ -119,7 +119,7 @@
 		"DESCRIPTION": "This was the board used in the production of the node stack actions tutorial. It can be a very useful insight as to how stacks work.",
 		"CREATOR_NAME": "Kyle Edwards",
 		"UPLOAD_DATE": "05/04/2025",
-		"TEMPLATE_VERSION": "0.0.1",
+		"TEMPLATE_VERSION": "0.0.2",
 		"UNNIO_VERSIONS": "2.3.1, 3.3.1",
 		"BG": "textures/tut_board_C.png",
 		"TEMPLATE": "templates/tut_board_C.unnboa"
@@ -130,7 +130,7 @@
 		"DESCRIPTION": "A board that sets the colour of a node to something like yellow if it is dragged into a stack it dose not belong to.",
 		"CREATOR_NAME": "Kyle Edwards",
 		"UPLOAD_DATE": "05/04/2025",
-		"TEMPLATE_VERSION": "0.0.1",
+		"TEMPLATE_VERSION": "0.0.2",
 		"UNNIO_VERSIONS": "2.3.1, 3.3.1",
 		"BG": "textures/tut_board_D.png",
 		"TEMPLATE": "templates/tut_board_D.unnboa"
