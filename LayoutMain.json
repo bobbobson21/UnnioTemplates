@@ -90,9 +90,9 @@
 		"TEMPLATE": "templates/art_board_A.unnboa"
 	},
 	{
-		"LINK_TITLE": "The mesh creation board (no error)",
+		"LINK_TITLE": "The mesh creation board (no error throwing)",
 		"TITLE": "The mesh creation board",
-		"DESCRIPTION": "This board is great at planning out the process for making meshes, and it is also good at tracking the progress of multiple meshs and how complete they are are.\n\n This board features automatic node colouring and status setting as well as placement error indication.",
+		"DESCRIPTION": "This board is great at planning out the process for making meshes, and it is also good at tracking the progress of multiple meshs and how complete they are are.\n\n This board features automatic node colouring and status setting.",
 		"CREATOR_NAME": "Kyle Edwards",
 		"UPLOAD_DATE": "05/04/2025",
 		"TEMPLATE_VERSION": "0.0.2",
@@ -102,15 +102,31 @@
 	},
 	{
 		"LINK_TITLE": "The pixel art board",
-		"TITLE": "The mesh creation board",
-		"DESCRIPTION": "This board is great at planning out the process for making meshes, and it is also good at tracking the progress of multiple meshs and how complete they are are.\n\n This board features automatic node colouring and status setting as well as placement error indication.",
+		"TITLE": "The pixel art creation board",
+		"DESCRIPTION": "This board is great at planning out the process for making pixle art , and it is also good at tracking the progress of what thing are and are not having pixel art animations.\n\n This board features automatic node colouring and status setting as well as placement error indication.",
 		"CREATOR_NAME": "Kyle Edwards",
-		"UPLOAD_DATE": "05/04/2025",
-		"TEMPLATE_VERSION": "0.0.2",
+		"UPLOAD_DATE": "19/04/2025",
+		"TEMPLATE_VERSION": "0.0.1",
 		"UNNIO_VERSIONS": "2.3.1, 3.3.1",
 		"BG": "textures/art_board_C.png",
 		"TEMPLATE": "templates/art_board_C.unnboa"
+	},
+	{
+		"LINK_TITLE": "The pixel art board (no error throwing)",
+		"TITLE": "The pixel art creation board no error throwing",
+		"DESCRIPTION": "This board is great at planning out the process for making pixle art , and it is also good at tracking the progress of what thing are and are not having pixel art animations.\n\n This board features automatic node colouring and status setting.",
+		"CREATOR_NAME": "Kyle Edwards",
+		"UPLOAD_DATE": "19/04/2025",
+		"TEMPLATE_VERSION": "0.0.1",
+		"UNNIO_VERSIONS": "2.3.1, 3.3.1",
+		"BG": "textures/art_board_C.png",
+		"TEMPLATE": "templates/art_board_D.unnboa"
 	},	
+	
+	
+	{
+		"DIVIDER_TITLE": "level design"
+	},
 	
 	
 	{
