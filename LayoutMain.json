@@ -53,7 +53,7 @@
 	},
 	{
 		"LINK_TITLE": "The TTD board (no error throwing)",
-		"TITLE": "TTD style board but it cant show you placement errors",
+		"TITLE": "TTD style board no errors",
 		"DESCRIPTION": "This board is a great utility for those who used test driven development as it can provide a great visual understanding of the tasks that need made and the conditions required to satisfy them. \n\nThis board also comes with automatic colour and state changing but it can NOT alert you to if you placed a node in the wrong place.",
 		"CREATOR_NAME": "Kyle Edwards",
 		"UPLOAD_DATE": "10/04/2025",
@@ -91,7 +91,7 @@
 	},
 	{
 		"LINK_TITLE": "The mesh creation board (no error throwing)",
-		"TITLE": "The mesh creation board",
+		"TITLE": "The mesh creation board no error",
 		"DESCRIPTION": "This board is great at planning out the process for making meshes, and it is also good at tracking the progress of multiple meshs and how complete they are are.\n\n This board features automatic node colouring and status setting.",
 		"CREATOR_NAME": "Kyle Edwards",
 		"UPLOAD_DATE": "05/04/2025",
