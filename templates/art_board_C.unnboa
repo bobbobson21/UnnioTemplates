@@ -1,0 +1,943 @@
+{
+  "IS_UNNIO_SAVE": true,
+  "STACKS": [
+    {
+      "T": "waiting on concept",
+      "COL": [
+        1.0,
+        0.392156869,
+        0.0,
+        1.0
+      ],
+      "NODES": [],
+      "ACTIONS": {
+        "ACT_BIA": [
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              1.0,
+              0.3921569,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 22,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=0>",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_ENA": [
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              1.0,
+              0.3921569,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 22,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=0>",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_EXA": []
+      }
+    },
+    {
+      "T": "concept art created",
+      "COL": [
+        0.784313738,
+        0.0,
+        0.784313738,
+        1.0
+      ],
+      "NODES": [],
+      "ACTIONS": {
+        "ACT_BIA": [
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.7843138,
+              0.0,
+              0.7843138,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 22,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=0>",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=1>",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_ENA": [
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.7843138,
+              0.0,
+              0.7843138,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 27,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=0>",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=1>",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 5,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1>",
+            "ACT_THEN_COL": [
+              1.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 28,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1>",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "NODE PLACEMENT ERROR: node should be placed in \"waiting on concept\" before it can be place here",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_EXA": []
+      }
+    },
+    {
+      "T": "concept art has been used to make pixel art",
+      "COL": [
+        0.5882353,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "NODES": [
+        {
+          "T": "... title here",
+          "DES": "... description here",
+          "DEA": "",
+          "S": "<STAT=1> ",
+          "U": "dsbkh",
+          "COL": [
+            0.0,
+            0.784313738,
+            1.0,
+            1.0
+          ],
+          "CONDS": []
+        }
+      ],
+      "ACTIONS": {
+        "ACT_BIA": [
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              0.784313738,
+              1.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 22,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=1> ",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_ENA": [
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1>",
+            "ACT_THEN_COL": [
+              0.0,
+              0.7843138,
+              1.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 27,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1>",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=1> ",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 5,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1> ",
+            "ACT_THEN_COL": [
+              1.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 28,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1> ",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "NODE PLACEMENT ERROR: node should be place in \"concept art created\" before it can be placed here",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_EXA": []
+      }
+    },
+    {
+      "T": "the pixel art has been approved",
+      "COL": [
+        0.5882353,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "NODES": [
+        {
+          "T": "... title here",
+          "DES": "... description here",
+          "DEA": "",
+          "S": "<STAT=1> ",
+          "U": "dsbkh",
+          "COL": [
+            0.0,
+            0.7843138,
+            1.0,
+            1.0
+          ],
+          "CONDS": []
+        }
+      ],
+      "ACTIONS": {
+        "ACT_BIA": [
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              0.7843138,
+              1.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 22,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=1> ",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_ENA": [
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1>",
+            "ACT_THEN_COL": [
+              0.0,
+              0.7843138,
+              1.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 27,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1>",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=1> ",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 5,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1> ",
+            "ACT_THEN_COL": [
+              1.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 28,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1> ",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "NODE PLACEMENT ERROR: node should be place in \"concept art created\" before it can be placed here",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_EXA": []
+      }
+    },
+    {
+      "T": "all the other frames have been created",
+      "COL": [
+        0.5882353,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "NODES": [
+        {
+          "T": "... title here",
+          "DES": "... description here",
+          "DEA": "",
+          "S": "<STAT=1> ",
+          "U": "dsbkh",
+          "COL": [
+            1.0,
+            0.0,
+            0.3137255,
+            1.0
+          ],
+          "CONDS": []
+        }
+      ],
+      "ACTIONS": {
+        "ACT_BIA": [
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              1.0,
+              0.0,
+              0.3137255,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 22,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=1> ",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_ENA": [
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1>",
+            "ACT_THEN_COL": [
+              1.0,
+              0.0,
+              0.3137255,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 27,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1>",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=1> ",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 5,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1> ",
+            "ACT_THEN_COL": [
+              1.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 28,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1> ",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "NODE PLACEMENT ERROR: node should be place in \"concept art created\" before it can be placed here",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_EXA": []
+      }
+    },
+    {
+      "T": "flip book animation has been approved",
+      "COL": [
+        0.5882353,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "NODES": [
+        {
+          "T": "... title here",
+          "DES": "... description here",
+          "DEA": "",
+          "S": "<STAT=1> ",
+          "U": "dsbkh",
+          "COL": [
+            1.0,
+            0.0,
+            0.3137255,
+            1.0
+          ],
+          "CONDS": []
+        }
+      ],
+      "ACTIONS": {
+        "ACT_BIA": [
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              1.0,
+              0.0,
+              0.3137255,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 22,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=1> ",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_ENA": [
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1>",
+            "ACT_THEN_COL": [
+              1.0,
+              0.0,
+              0.3137255,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 27,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1>",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=1> ",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 5,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1> ",
+            "ACT_THEN_COL": [
+              1.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 28,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "<STAT=1> ",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "NODE PLACEMENT ERROR: node should be place in \"concept art created\" before it can be placed here",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_EXA": []
+      }
+    },
+    {
+      "T": "done",
+      "COL": [
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      "NODES": [],
+      "ACTIONS": {
+        "ACT_BIA": [],
+        "ACT_ENA": [
+          {
+            "ACT_AT": 1,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.5,
+              0.5,
+              0.5,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": true,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 8,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 22,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "<STAT=2>",
+            "ACT_THEN_DE": ""
+          },
+          {
+            "ACT_AT": 29,
+            "ACT_IF_COL": [
+              0.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            "ACT_IF_DA": "... date (DD/MM/YYYY) here",
+            "ACT_IF_S": "",
+            "ACT_THEN_COL": [
+              0.0,
+              1.0,
+              0.0,
+              1.0
+            ],
+            "ACT_THEN_COL_TINT": false,
+            "ACT_THEN_S": "",
+            "ACT_THEN_DE": ""
+          }
+        ],
+        "ACT_EXA": []
+      }
+    }
+  ]
+}
